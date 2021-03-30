@@ -974,4 +974,15 @@ print(classification_report(np.array(y_test), ynew))
     weighted avg       0.95      0.94      0.94       160
     
     
+# Explored Paper
+Peng C., Wang N., Gao X., Li J. (2016) Face Recognition from Multiple Stylistic Sketches: Scenarios, Datasets, and Evaluation. In: Hua G., Jégou H. (eds) Computer Vision – ECCV 2016 Workshops. ECCV 2016. Lecture Notes in Computer Science, vol 9913. Springer, Cham. https://doi.org/10.1007/978-3-319-46604-0_1
 
+# References
+
+X. Wang , X. Tang , Face photo-sketch synthesis and recognition, IEEE Trans. Pat- tern Anal. Mach. Intell. 31 (11) (2009) 1955–1967 .
+
+
+H. Han , B. Klare , K. Bonnen , A. Jain , Matching composite sketches to face pho- tos: a component-based approach, IEEE Trans. Inf. Forensics Secur. 8 (1) (2013) 191–204 .
+
+
+X. Tang , X. Wang , Face photo recognition using sketch, in: Proceedings of IEEE International Conference on Image Processing, September 2002, pp. 257–260 .
