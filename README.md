@@ -24,13 +24,15 @@ Three specific scenarios based on the face sketch styles and datasets available 
     •	Scenario-MCS: face recognition from multiple stylistic composite sketches, which are created by multiple software tools.
 All of these scenarios are gathered from 10 different datasets shown in figure 1.
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/81626903/113000462-4a6aea80-9189-11eb-9ea0-44f75bf27d1e.png)
+
 
 ## Results
 
 Results in figure 2 show that VGG-Net achieved the highest accuracy for all datasets. However, its accuracy for the last two (i.e. Software generated) datasets were not satisfactory. Therefore, one can work to improve the accuracy of these two datasets.
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/81626903/113000596-69697c80-9189-11eb-971e-58a2562f2568.png)
+
 
 # Face Recognition (My code)
 
@@ -802,13 +804,15 @@ plt.show()
 
 
     
-![png](output_28_1.png)
-    
-
-
+![image](https://user-images.githubusercontent.com/81626903/113000919-b8171680-9189-11eb-8b02-a8a1d49282e5.png)
 
     
-![png](output_28_2.png)
+
+![image](https://user-images.githubusercontent.com/81626903/113000987-c82ef600-9189-11eb-94fe-d7deaf0d9c0d.png)
+
+
+    
+
     
 
 
@@ -916,16 +920,8 @@ print(classification_report(np.array(y_test), ynew))
 
 
     
-![png](output_30_2.png)
-    
+![image](https://user-images.githubusercontent.com/81626903/113001173-fdd3df00-9189-11eb-8bcb-88ac7647cdfb.png)
 
-
-    Confusion matrix, without normalization
-    
-
-
-    
-![png](output_30_4.png)
     
 
 
