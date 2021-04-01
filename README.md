@@ -2,7 +2,7 @@
 
 ## Description
 
-In this blog, a research paper titled “Face recognition from multiple stylistic sketches: Scenarios, datasets, and evaluation” is explored. The aim behind the analysis is to present a new machine learning technique that can handle the sketch-based face recognition issue. The attached code at https://github.com/Saleh824/FaceRecognition is about-face recognition by CNN Model. Latterly, my aim is to advance the code for sketch-based face recognition.
+In this blog, a research paper titled “Face recognition from multiple stylistic sketches: Scenarios, datasets, and evaluation” is explored. The aim behind the analysis is to present a new machine learning technique that can handle the sketch-based face recognition issue. The attached code at https://github.com/Salah195186/FaceRecognition is about-face recognition by CNN Model. Latterly, my aim is to advance the code for sketch-based face recognition.
 Thy analysis of explored paper and the results of my simulation are in subsequent sections.
 
 
